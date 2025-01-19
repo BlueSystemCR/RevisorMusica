@@ -1,0 +1,7 @@
+PyQt5==5.15.11
+mutagen==1.47.0
+python-vlc==3.0.21203
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+pytest-qt==4.2.0
